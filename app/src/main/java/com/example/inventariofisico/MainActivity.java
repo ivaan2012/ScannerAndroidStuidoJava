@@ -12,6 +12,7 @@ import android.widget.Toast;
 import com.google.zxing.integration.android.IntentIntegrator;
 import com.google.zxing.integration.android.IntentResult;
 
+//usetd dora
 public class MainActivity extends AppCompatActivity {
     EditText ctScan;
     @Override
